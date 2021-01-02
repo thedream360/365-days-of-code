@@ -5,12 +5,12 @@ Each and every week will contain different cocepts on which will be updated on t
 THe repo contains various concepts I have learned from different sources and I do not claim exclussive ownership to the concepts
 ### January
 #### Week 1 EDA
-Day 1:365
-Day 2:365
-Day 3:365
-Day 4:365
-Day 5:365
-Day 6:365
+Day 1:365 General Outlook of a DataFrame
+Day 2:365 Handling Missing Data
+Day 3:365 Data Imputation
+Day 4:365 Duplicate data
+Day 5:365 Handling Outliers
+Day 6:365 Bivariate Analysis
 Day 7:365
 
 #### Week 2 Feature Engineering
